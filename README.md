@@ -1,7 +1,7 @@
 # Hi, I'm Rustem 👋
 
-I build AI products for healthcare — and I've taken one from an empty repo to a live product that a real
-clinic uses every day.
+I build AI products for healthcare — and I've taken one from an empty repo to a live product that a real,
+paying clinic uses every day.
 
 I'm a founder and a hands-on engineer. I don't just design the thing and hand it off; I write the code —
 across the whole stack, from the iOS app down to the GPU workers that run the AI.
