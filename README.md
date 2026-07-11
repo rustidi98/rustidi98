@@ -60,6 +60,11 @@ and GPU workers for the AI — and I designed and directed every part of it. To 
 built a *system* around the AI: reusable skills, a fleet of adversarial review agents, and machine gates
 that fail a bad deploy before it ships. That system is a repo of its own → **[ai-engineering-showcase](https://github.com/rustidi98/ai-engineering-showcase)**.
 
+> **For a senior reviewer:** I'll defend five specific trade-offs — a 365-day refresh token, running my
+> own GPU speech model, an always-on reaper for stuck jobs, guards that can *reject* an AI note, and
+> deterministic-before-model. The reasoning behind each →
+> **[the interview guide](https://github.com/rustidi98/signalo-showcase/blob/main/INTERVIEW_GUIDE.md)**.
+
 ## 📦 Where to look
 
 The product code stays private — patient data and a live commercial product. These repos are the
