@@ -34,7 +34,6 @@ The product is used daily by **40 clinicians**, has processed **500+ patient vis
 - Automated daily staff late-arrival reporting from **40–70 minutes to approximately 1 minute**.
 - Built revenue analytics by coordinator, clinician and service line, removing approximately **3 hours of manual reporting per week**.
 
-*All US$ figures are approximate and converted at US$1 = RUB80.*
 
 ### The principles behind it
 
