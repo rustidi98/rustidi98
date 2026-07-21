@@ -23,7 +23,18 @@ The product spans native iOS and Android apps, web, a NestJS/PostgreSQL backend,
 
 My part is broader than a feature list: I work with clinic leadership, coordinators and dentists, map the real workflow, set the product and system direction, direct AI-assisted implementation, validate live behaviour and own what happens after release.
 
-The product is used by a clinic with **100+ staff** and approximately **US$5M in annual revenue**. We are now preparing it for use in additional clinics.
+The product is used daily by **40 clinicians**, has processed **500+ patient visits**, and operates inside a clinic with **100+ staff** and approximately **US$5M in annual revenue**. We are now preparing it for use in additional clinics.
+
+### Measured in production
+
+- Reduced clinical record completion from approximately **15 minutes to 2 minutes per visit** by converting consultation audio into structured notes with review safeguards.
+- Automated patient-context handover across the call centre, care coordinators, clinicians and clinic leadership.
+- Added AI-assisted quality review, treatment-acceptance assessment and specific next-action recommendations.
+- Digitised the clinic's clinical database and identified more than **US$10M in estimated remaining treatment potential** by analysing each patient's dental chart, latest clinical data and completed treatment.
+- Automated daily staff late-arrival reporting from **40–70 minutes to approximately 1 minute**.
+- Built revenue analytics by coordinator, clinician and service line, removing approximately **3 hours of manual reporting per week**.
+
+*All US$ figures are approximate and converted at US$1 = RUB80.*
 
 ### The principles behind it
 
