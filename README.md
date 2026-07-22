@@ -9,7 +9,7 @@
 ![Relocating](https://img.shields.io/badge/Relocating-Auckland%2C_New_Zealand-197A55?style=flat-square)
 ![Open to work](https://img.shields.io/badge/Open_to-Full_Stack_%7C_Applied_AI_%7C_Product_Delivery-2ea44f?style=flat-square)
 
-**[Signalo →](https://github.com/rustidi98/signalo-showcase)** · **[How I build with AI →](https://github.com/rustidi98/ai-engineering-showcase)** · **[Email →](mailto:rust.idi98@gmail.com)**
+**[Signalo →](https://mysignalo.ru)** · **[Engineering evidence →](https://github.com/rustidi98/signalo-showcase)** · **[References →](./REFERENCES.md)** · **[Email →](mailto:rust.idi98@gmail.com)**
 
 </div>
 
@@ -101,6 +101,26 @@ These are not words I add for a particular vacancy. They are the standards I try
 **Leave a path that someone else can follow.** Initiative matters, but so does what remains after the first solution. I document decisions, turn incidents into rules and tests, and build reusable workflows so the next person does not have to rediscover the same answer from zero.
 
 **Treat people as people, not resources in a plan.** Everyone has difficult days and blind spots. I value direct communication, listening before judging and creating enough clarity that people can ask for help without hiding a problem until it becomes an incident.
+
+## What people say about working with me
+
+Five former colleagues and direct reports have written detailed recommendations about our work together. Their accounts independently describe the same pattern: I bring structure to ambiguous work, make ownership clear, stay accessible under pressure, invest in people's growth and leave behind systems the team can continue using.
+
+> "Rustem can bring order to the messiest processes fast - and he showed me by his own example what a genuinely invested head of marketing looks like. After he left, I was promoted to Head of Marketing on the system he built."
+>
+> — **Vasilisa Levina**, Team Lead Performance Marketing reporting to me at Matrius; later promoted to Head of Marketing
+
+> "I never saw him face a problem he couldn't break down into a workable plan. Everything I've built in my career since runs on the principles I learned working for him."
+>
+> — **Egor Lysenko**, StudyWay teacher for three years; now leads exam preparation for 10,000+ students a year
+
+> "Rustem knows how to be a real investment - in people, in the team, and in the company he's building."
+>
+> — **Ramil Rakhimov**, grew from content assistant to senior marketer at StudyWay and later became a managing partner
+
+The full page contains all five recommendations without shortening them, with English translations and the original Russian wording.
+
+**[Read all five full recommendations →](./REFERENCES.md)**
 
 ## How I build with AI
 
