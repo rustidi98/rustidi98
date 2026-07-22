@@ -2,12 +2,12 @@
 
 # Rustem Idiiatullin
 
-### Applied AI Product Builder · customer-embedded workflow systems
+### Founder, operator and applied-AI product builder
 
-**I like getting close to the real work: understanding where time, information or trust is being lost, then staying with the product until it works in daily life.**
+**I turn unclear, manual business processes into products that people can use, measure and trust in daily work.**
 
 ![Relocating](https://img.shields.io/badge/Relocating-Auckland%2C_New_Zealand-197A55?style=flat-square)
-![Open to work](https://img.shields.io/badge/Open_to-Applied_AI_%26_Product_Delivery-2ea44f?style=flat-square)
+![Open to work](https://img.shields.io/badge/Open_to-Full_Stack_%7C_Applied_AI_%7C_Product_Delivery-2ea44f?style=flat-square)
 
 **[Signalo →](https://github.com/rustidi98/signalo-showcase)** · **[How I build with AI →](https://github.com/rustidi98/ai-engineering-showcase)** · **[Email →](mailto:rust.idi98@gmail.com)**
 
@@ -15,75 +15,102 @@
 
 ---
 
-## What I am building now
+I have worked on both sides of a product: as the person who owns the commercial result and as the person who has to make the underlying system work. My path includes two businesses built and sold, a 15-person marketing function built during a period of substantial company growth, a performance-marketing agency serving children's education companies, and now a production clinical-AI platform.
 
-Since May 2026 I have been building **Signalo** with a large dental clinic - an applied-AI platform connecting consultation audio, clinical notes, follow-up work and management analytics.
+The common thread is not a job title. I like entering a process that is still messy, understanding what is actually happening between people, data and systems, and staying responsible until the result works in real life.
 
-The product spans native iOS and Android apps, web, a NestJS/PostgreSQL backend, GPU speech-to-text, iDent and amoCRM integrations, and LLM workflows for structured clinical output.
+| Current evidence | Scale |
+|:---|:---|
+| **Signalo in production** | Used daily by **40 clinicians and clinic teams** across **500+ patient visits** |
+| **Clinical and commercial intelligence** | Identified more than **US$10M in estimated remaining treatment potential** across the clinic's patient base |
+| **Marketing agency** | **15+ education companies** and approximately **5,000 leads per month** across the client portfolio |
+| **Founder track record** | Built and sold an education company and a consumer-electronics business |
 
-My part is broader than a feature list: I work with clinic leadership, coordinators and dentists, map the real workflow, set the product and system direction, direct AI-assisted implementation, validate live behaviour and own what happens after release.
+## What I am building now: Signalo
 
-The product is used daily by **40 clinicians**, has processed **500+ patient visits**, and operates inside a clinic with **100+ staff** and approximately **US$5M in annual revenue**. We are now preparing it for use in additional clinics.
+Since May 2026 I have been building **Signalo** with a large dental clinic. It began with a practical problem: important information was being lost between consultations, calls, the clinic's practice-management system, amoCRM and management reports. Doctors were spending time on documentation, coordinators lacked usable feedback, and leadership could not see the complete patient journey without collecting information manually.
 
-### Measured in production
+Signalo connects those pieces into one operating system for clinical conversations and follow-up work:
 
-- Reduced clinical record completion from approximately **15 minutes to 2 minutes per visit** by converting consultation audio into structured notes with review safeguards.
-- Automated patient-context handover across the call centre, care coordinators, clinicians and clinic leadership.
-- Added AI-assisted quality review, treatment-acceptance assessment and specific next-action recommendations.
-- Digitised the clinic's clinical database and added patient-level analysis of remaining treatment potential using dental charts, current clinical data and completed treatment.
-- Automated daily staff late-arrival reporting from **40–70 minutes to approximately 1 minute**.
+- native iOS and Android applications for doctors and clinic teams;
+- a React/Next.js web product and NestJS/TypeScript backend;
+- PostgreSQL, Redis/BullMQ and asynchronous processing;
+- self-hosted GPU speech-to-text and speaker diarisation;
+- integrations with the clinic's on-premise practice-management system and amoCRM;
+- Claude- and Gemini-based workflows for structured clinical notes, conversation outcomes, treatment potential, quality review and next actions;
+- management analytics across revenue, conversion, no-shows, clinician performance and clinic capacity.
+
+I lead the product end to end: discovery with clinic leadership, coordinators and dentists; workflow and system design; acceptance criteria; AI-assisted implementation across web, backend and mobile; testing; production validation; integrations; and the work that begins after release when real behaviour does not match the diagram.
+
+### What changed in the clinic
+
+- Reduced clinical-record completion from approximately **15 minutes to 2 minutes per visit**.
+- Built structured medical notes with transcript evidence, deterministic validation, human review and evaluation gates that reduce the risk of unsupported clinical output.
+- Connected consultations, coordinator calls, the practice-management system and CRM around the same patient journey.
+- Digitised the clinic's clinical database and identified more than **US$10M in estimated remaining treatment potential** by analysing dental charts, current clinical data and completed treatment at patient level. The clinic is now using this view to prioritise follow-up and work systematically with opportunities that were previously fragmented across systems.
+- Automated daily staff late-arrival reporting from **40-70 minutes to approximately 1 minute**.
 - Built revenue analytics by coordinator, clinician and service line, removing approximately **3 hours of manual reporting per week**.
+- Put the platform into daily use by **40 clinicians and clinic teams**; it has processed **500+ patient visits** inside a clinic with **100+ staff** and approximately **US$5M in annual revenue**.
 
+### What matters to me in this work
 
-### The principles behind it
+**Unsupported is not true.** A confident answer from a model is not a result unless it can be traced to evidence, validated and rejected when necessary.
 
-- **Unsupported is not true.** Clinical output uses structured generation, review trails and evaluation checks so the model cannot quietly present an invented detail as fact.
-- **The workflow matters more than the demo.** Audio, clinical systems, CRM follow-up and management analytics have to work around the same patient journey.
-- **Production incidents are product feedback.** Inspect the real records, find the failure rule and change the system instead of patching the visible symptom.
-- **Cost is part of the product.** Use the simplest reliable tool for each step and measure expensive model and GPU work.
+**The workflow matters more than the demo.** A beautiful AI screen is irrelevant if doctors, coordinators, CRM data and management decisions still live in separate worlds.
 
-## A business I am preparing for sale
+**Production incidents are part of product discovery.** I inspect logs and real records, find the broken rule and change the system instead of hiding the visible symptom.
 
-I currently run an independent **marketing and lead-generation agency** for children's education companies and am preparing it for sale before relocation.
+**Business value and engineering quality belong together.** Reliability, privacy, latency and cost are product decisions, just like conversion, revenue and time saved.
 
-- Worked with **15+ companies**.
-- Generate approximately **5,000 leads per month** across the client portfolio.
-- Build acquisition systems across paid traffic, landing pages, CRM workflows and lifecycle messaging.
-- Use AI-assisted functions, voice robots and automated outreach to qualify demand, reactivate databases and find new customers.
-- Turn repeated client problems into reusable workflows, integrations and internal tools.
+The architecture, eval approach, incidents, trade-offs and sanitised implementation evidence are in the **[Signalo engineering showcase](https://github.com/rustidi98/signalo-showcase)**.
+
+## The other business I operate
+
+Alongside Signalo, I run an independent **performance-marketing, lead-generation and automation agency** for companies in children's education.
+
+The agency has worked with **15+ companies** and generates approximately **5,000 leads per month** across the client portfolio. The work is broader than buying traffic: I connect paid acquisition, landing pages, cold-call and voice outreach, CRM workflows, lifecycle messaging, AI-assisted qualification and database reactivation into one measurable customer-acquisition process.
+
+Repeated client problems become reusable workflows, integrations and internal tools. That work is also where my commercial and technical sides meet: I can discuss unit economics and positioning with an owner, map the operating process with a team and then build the automation that removes the manual bottleneck.
+
+I am preparing the agency for sale before relocation so I can commit fully to a permanent role in New Zealand.
+
+## The path before Signalo
+
+| Period | Work | What I was responsible for |
+|:---|:---|:---|
+| 2023-2025 | **Matrius · Director of Marketing** | Built a 15-person marketing function, end-to-end analytics and operating processes; helped grow annual revenue from approximately **US$2.25M to US$5M**. |
+| 2020-2023 | **StudyWay · Founder & CEO** | Built the education product, acquisition, sales, academic operations and automation; reached around **1,000 students per year** and a team of up to **50 people**; sold the company in 2023. |
+| 2017-2020 | **Consumer-electronics retail · Founder & Owner** | Built the business across purchasing, pricing, marketing, sales, service and logistics; sold it in 2020. |
+
+These roles taught me to think beyond an assigned function. A technical decision changes an operating process; an operating process changes the customer experience; and the customer experience eventually appears in the numbers.
 
 ## How I build with AI
 
-AI coding agents are part of my implementation workflow. I own the problem definition, requirements, system direction, acceptance criteria, live validation and operating result.
+AI coding agents are a deliberate part of my implementation workflow. They help me move across TypeScript, Python, Swift and Kotlin, explore alternatives and shorten the path from a defined problem to a testable implementation.
 
-My edge is the combination of customer discovery, product judgement, business systems and the willingness to stay responsible after release. The code is one output of that work; the real test is whether the people using the product can trust it.
+That does not move responsibility away from me. I own the problem definition, workflow, requirements, system boundaries, acceptance criteria, review, testing, live validation and production result. My public engineering materials show the evidence behind that model: architecture, sanitised code, eval gates, postmortems and the trade-offs I would be prepared to defend in an interview.
 
 ## Public work
 
 | Repository | What it shows |
 |:---|:---|
-| **[signalo-showcase](https://github.com/rustidi98/signalo-showcase)** | Signalo architecture, clinical workflow, production incidents and AI-evaluation thinking. Start here. |
-| **[ai-engineering-showcase](https://github.com/rustidi98/ai-engineering-showcase)** | Reusable skills, adversarial review agents and quality gates for AI-assisted delivery. |
-| **[tasks-knowledge-showcase](https://github.com/rustidi98/tasks-knowledge-showcase)** | A daily-use operating system combining knowledge, projects, tasks and AI-assisted workflows. |
-| **[callbase-showcase](https://github.com/rustidi98/callbase-showcase)** | Data workflows for importing, deduplicating, filtering and exporting large contact databases. |
+| **[signalo-showcase](https://github.com/rustidi98/signalo-showcase)** | The full Signalo story: product, architecture, clinical workflow, evals, incidents, mobile screens and sanitised code. Start here. |
+| **[ai-engineering-showcase](https://github.com/rustidi98/ai-engineering-showcase)** | How I direct AI coding agents with reusable skills, specialist reviews and evidence-based release gates. |
+| **[tasks-knowledge-showcase](https://github.com/rustidi98/tasks-knowledge-showcase)** | A full-stack knowledge and work platform with a block editor, databases in documents, PostgreSQL/RLS and an AI workspace. |
+| **[callbase-showcase](https://github.com/rustidi98/callbase-showcase)** | Data workflows at volume: import, deduplication, enrichment, segmentation and export with FastAPI and PostgreSQL. |
+| **[agent-guardrails](https://github.com/rustidi98/agent-guardrails)** | Installable review agents and a machine gate for defined hard findings before commit, push or deploy. |
 
-## Before Signalo
+## Why New Zealand
 
-| Period | Work | Scale |
-|:---|:---|:---|
-| 2023-2025 | **Matrius · Director of Marketing** | Helped grow annual revenue from approximately US$2.25M to US$5M; built the marketing function and end-to-end analytics. |
-| 2020-2023 | **StudyWay · Founder & CEO** | Around 1,000 students per year, team of up to 50; sold in 2023. |
-| 2017-2020 | **Consumer electronics retail · Founder** | Built and ran the business across purchasing, sales, marketing, service and logistics; sold in 2020. |
+I am relocating to **Auckland, New Zealand** with my wife and our four-year-old daughter. This is a deliberate, long-term family decision, not a short experiment or an attempt to collect another country on the map. We want to find a calm place that we can eventually call home, where our daughter can grow and study and where I can become part of a team and local professional community rather than remain a permanent outsider.
 
-## New Zealand
+I am available for a full-time, permanent role in Full Stack Engineering, Applied AI, Forward Deployed Engineering or product delivery. I am comfortable getting close to customers, working from an incompletely defined problem and owning the path to a production result.
 
-I am relocating to **Auckland, New Zealand** with my family and am available for a full-time, permanent role. I am looking for applied-AI, product delivery and customer-embedded work where I can turn a messy real-world workflow into a product people use and trust.
+I require employer support for an **Accredited Employer Work Visa (AEWV)** and am prepared to relocate to Auckland once the offer and immigration process are complete.
 
-I require employer support for an **Accredited Employer Work Visa (AEWV)**.
-
-## Education
+## Education and contact
 
 **Bachelor's degree in Management (Production Management), 2021**<br/>
 Kazan State University of Architecture and Engineering (KSUAE), Kazan, Russia
 
-Fastest way to understand my work: start with **[Signalo](https://github.com/rustidi98/signalo-showcase)** or email me at **rust.idi98@gmail.com**.
+The fastest way to understand how I work is to start with **[Signalo](https://github.com/rustidi98/signalo-showcase)**. If the problems you are solving look similar, email me at **[rust.idi98@gmail.com](mailto:rust.idi98@gmail.com)**.
