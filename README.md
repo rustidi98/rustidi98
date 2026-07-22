@@ -26,16 +26,6 @@ The common thread is not a job title. I like entering a process that is still me
 | **Marketing agency** | **15+ education companies** and approximately **5,000 leads per month** across the client portfolio |
 | **Founder track record** | Built and sold an education company and a consumer-electronics business |
 
-## The family behind the move
-
-<p align="center">
-  <img src="assets/family.jpg" alt="Rustem with his wife and daughter" width="520" />
-</p>
-
-<p align="center"><em>My wife, our four-year-old daughter and me.</em></p>
-
-We are relocating to New Zealand together. This is not only a career move for me: it is a long-term family decision about where our daughter will grow and study, where my wife can feel safe and at home, and where we can become part of a community rather than spend years moving between temporary countries. That is why I am looking for a company and a team I can genuinely commit to, not simply a visa or a short overseas contract.
-
 ## What I am building now: Signalo
 
 Since May 2026 I have been building **Signalo** with a large dental clinic. It began with a practical problem: important information was being lost between consultations, calls, the clinic's practice-management system, amoCRM and management reports. Doctors were spending time on documentation, coordinators lacked usable feedback, and leadership could not see the complete patient journey without collecting information manually.
@@ -130,11 +120,19 @@ That does not move responsibility away from me. I own the problem definition, wo
 
 ## Why New Zealand
 
+<p align="center">
+  <img src="assets/family.jpg" alt="Rustem with his wife and daughter" width="520" />
+</p>
+
+<p align="center"><em>My wife, our four-year-old daughter and me.</em></p>
+
 I am relocating to **Auckland, New Zealand** with my wife and our four-year-old daughter. This is a deliberate, long-term family decision, not a short experiment or an attempt to collect another country on the map. We want to find a calm place that we can eventually call home, where our daughter can grow and study and where I can become part of a team and local professional community rather than remain a permanent outsider.
 
 I am available for a full-time, permanent role in Full Stack Engineering, Applied AI, Forward Deployed Engineering or product delivery. I am comfortable getting close to customers, working from an incompletely defined problem and owning the path to a production result.
 
 I require employer support for an **Accredited Employer Work Visa (AEWV)** and am prepared to relocate to Auckland once the offer and immigration process are complete.
+
+**[Read our full family story and why we chose New Zealand →](./FAMILY.md)**
 
 ## Education and contact
 
