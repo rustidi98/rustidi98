@@ -90,6 +90,8 @@ These are not words I add for a particular vacancy. They are the standards I try
 
 **Finish what I start.** I do not consider a task complete because the code was merged or the presentation was delivered. It is complete when the result works in the real process, the people using it understand what changed and the remaining risks are visible. If something breaks after release, I stay with the problem until the underlying rule is fixed.
 
+**Make decisions and own the consequences.** When information is incomplete, I collect enough context to make a reasoned decision, make the assumptions visible and take responsibility for what follows. If my decision turns out to be wrong, I acknowledge it, fix the problem myself and change the rule or process that allowed it to happen. I do not shift responsibility to the team, the customer, the circumstances or the AI tool used during implementation.
+
 **Act with integrity and be honest about reality.** I would rather surface an uncomfortable fact than protect a beautiful story. That means separating an estimate from recognised revenue, saying when evidence is incomplete, admitting a mistake and never allowing a confident AI answer to masquerade as truth when it cannot be grounded.
 
 **Use discipline and clear planning to make speed repeatable.** I like a visible plan, explicit ownership, acceptance criteria and a clear definition of done. Planning is not rigidity: the plan should change when the evidence changes, but the team should always understand what we are doing, why we are doing it and what happens next.
