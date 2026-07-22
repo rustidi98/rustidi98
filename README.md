@@ -9,7 +9,7 @@
 ![Relocating](https://img.shields.io/badge/Relocating-Auckland%2C_New_Zealand-197A55?style=flat-square)
 ![Open to work](https://img.shields.io/badge/Open_to-Applied_AI_%26_Product_Delivery-2ea44f?style=flat-square)
 
-**[Signalo →](https://github.com/rustidi98/signalo-showcase)** · **[How I build with AI →](https://github.com/rustidi98/ai-engineering-showcase)** · **[Email →](mailto:rust.idi98@gmail.com)** · **[LinkedIn →](https://linkedin.com/in/rustem-idiiatullin)**
+**[Signalo →](https://github.com/rustidi98/signalo-showcase)** · **[How I build with AI →](https://github.com/rustidi98/ai-engineering-showcase)** · **[Email →](mailto:rust.idi98@gmail.com)**
 
 </div>
 
@@ -30,7 +30,7 @@ The product is used daily by **40 clinicians**, has processed **500+ patient vis
 - Reduced clinical record completion from approximately **15 minutes to 2 minutes per visit** by converting consultation audio into structured notes with review safeguards.
 - Automated patient-context handover across the call centre, care coordinators, clinicians and clinic leadership.
 - Added AI-assisted quality review, treatment-acceptance assessment and specific next-action recommendations.
-- Digitised the clinic's clinical database and identified more than **US$10M in estimated remaining treatment potential** by analysing each patient's dental chart, latest clinical data and completed treatment.
+- Digitised the clinic's clinical database and added patient-level analysis of remaining treatment potential using dental charts, current clinical data and completed treatment.
 - Automated daily staff late-arrival reporting from **40–70 minutes to approximately 1 minute**.
 - Built revenue analytics by coordinator, clinician and service line, removing approximately **3 hours of manual reporting per week**.
 
@@ -42,9 +42,9 @@ The product is used daily by **40 clinicians**, has processed **500+ patient vis
 - **Production incidents are product feedback.** Inspect the real records, find the failure rule and change the system instead of patching the visible symptom.
 - **Cost is part of the product.** Use the simplest reliable tool for each step and measure expensive model and GPU work.
 
-## Another operating business
+## A business I am preparing for sale
 
-I also run an independent **marketing and lead-generation agency** for children's education companies.
+I currently run an independent **marketing and lead-generation agency** for children's education companies and am preparing it for sale before relocation.
 
 - Worked with **15+ companies**.
 - Generate approximately **5,000 leads per month** across the client portfolio.
@@ -77,8 +77,13 @@ My edge is the combination of customer discovery, product judgement, business sy
 
 ## New Zealand
 
-I am relocating to **Auckland, New Zealand** with my family and looking for applied-AI, product delivery and customer-embedded roles where I can turn a messy real-world workflow into a product people use and trust.
+I am relocating to **Auckland, New Zealand** with my family and am available for a full-time, permanent role. I am looking for applied-AI, product delivery and customer-embedded work where I can turn a messy real-world workflow into a product people use and trust.
 
 I require employer support for an **Accredited Employer Work Visa (AEWV)**.
+
+## Education
+
+**Bachelor's degree in Management (Production Management), 2021**<br/>
+Kazan State University of Architecture and Engineering (KSUAE), Kazan, Russia
 
 Fastest way to understand my work: start with **[Signalo](https://github.com/rustidi98/signalo-showcase)** or email me at **rust.idi98@gmail.com**.
