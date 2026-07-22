@@ -84,6 +84,22 @@ I am preparing the agency for sale before relocation so I can commit fully to a 
 
 These roles taught me to think beyond an assigned function. A technical decision changes an operating process; an operating process changes the customer experience; and the customer experience eventually appears in the numbers.
 
+## How I work and what I value
+
+These are not words I add for a particular vacancy. They are the standards I try to use when I build a company, lead a team or take responsibility for a production system.
+
+**Finish what I start.** I do not consider a task complete because the code was merged or the presentation was delivered. It is complete when the result works in the real process, the people using it understand what changed and the remaining risks are visible. If something breaks after release, I stay with the problem until the underlying rule is fixed.
+
+**Act with integrity and be honest about reality.** I would rather surface an uncomfortable fact than protect a beautiful story. That means separating an estimate from recognised revenue, saying when evidence is incomplete, admitting a mistake and never allowing a confident AI answer to masquerade as truth when it cannot be grounded.
+
+**Use discipline and clear planning to make speed repeatable.** I like a visible plan, explicit ownership, acceptance criteria and a clear definition of done. Planning is not rigidity: the plan should change when the evidence changes, but the team should always understand what we are doing, why we are doing it and what happens next.
+
+**Move through ambiguity instead of waiting for perfect instructions.** Most valuable problems arrive without a map. I get close to the users, collect the missing context, make the trade-offs visible and take responsibility for finding a practical way forward.
+
+**Leave a path that someone else can follow.** Initiative matters, but so does what remains after the first solution. I document decisions, turn incidents into rules and tests, and build reusable workflows so the next person does not have to rediscover the same answer from zero.
+
+**Treat people as people, not resources in a plan.** Everyone has difficult days and blind spots. I value direct communication, listening before judging and creating enough clarity that people can ask for help without hiding a problem until it becomes an incident.
+
 ## How I build with AI
 
 AI coding agents are a deliberate part of my implementation workflow. They help me move across TypeScript, Python, Swift and Kotlin, explore alternatives and shorten the path from a defined problem to a testable implementation.
